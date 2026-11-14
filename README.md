@@ -60,5 +60,5 @@ All landing coordinates, mission timelines, and archival imagery are cross-refer
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/abandoned-not-forgotten.git](https://github.com/Plohvnnv/abandoned-not-forgotten.git)
+   git clone [https://github.com/Plohvnnv/abandoned-not-forgotten.git](https://github.com/Plohvnnv/abandoned-not-forgotten.git)
    cd abandoned-not-forgotten
